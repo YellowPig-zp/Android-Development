@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intype">
+        <item>Salary</item>
+        <item>Part-time job</item>
+        <item>Stock</item>
+        <item>Fund</item>
+        <item>Interest</item>
+        <item>Rent</item>
+        <item>Income</item>
+        <item>Others</item>
+    </string-array>
+</resources>
